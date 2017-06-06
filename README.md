@@ -1,2 +1,2 @@
 # c-sharp-exercises
-exercises2/1
+exercises from second lecture
