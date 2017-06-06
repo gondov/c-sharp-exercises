@@ -1,2 +1,1 @@
-# c-sharp-exercises
-exercises2/1
+# Nov tekst
